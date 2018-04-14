@@ -6,21 +6,21 @@ We are attending the only coding bootcamp in Greece. This is actually our very f
 We will try to create an eCommerce platform using the technologies below:
 
 _______
-#Front End#
--HTML5
--CSS3
--ReactJS
--AngularJS 5
--jQuery 3.3.1
+_Front End_
+*HTML5
+*CSS3
+*ReactJS
+*AngularJS 5
+*jQuery 3.3.1
 ______
-#Back End#
--Java Enterprise Edition 7
--Spring MVC
--Spring Security
--Spring WebFlow
--Hibernate 5
--JSPs
--Servlets
+_Back End_
+*Java Enterprise Edition 7
+*Spring MVC
+*Spring Security
+*Spring WebFlow
+*Hibernate 5
+*JSPs
+*Servlets
 _______
-#Database
--MySQL 5.7
+_Database_
+*MySQL 5.7
