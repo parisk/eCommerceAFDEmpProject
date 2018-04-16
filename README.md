@@ -13,7 +13,7 @@ _______
 *AngularJS 5
 *jQuery 3.3.1
 ______
-------
+
 ->Back End
 *Java Enterprise Edition 7
 *Spring MVC
@@ -23,6 +23,6 @@ ______
 *JSPs
 *Servlets
 _______
--------
+
 ->Database
 *MySQL 5.7
