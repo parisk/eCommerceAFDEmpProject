@@ -12,7 +12,6 @@ We will try to create an eCommerce platform using the technologies below:
 *ReactJS
 *AngularJS 5
 *jQuery 3.3.1
-----------
 
 ->Back End
 *Java Enterprise Edition 7
